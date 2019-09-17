@@ -9,4 +9,9 @@
         <abbr title="Phone">P:</abbr>
         (780) 471-6248
     </address>
+
+    <address>
+        <abbr title="Email">Email:</abbr>
+        jcortezdev@gmail.com
+    </address>
 </asp:Content>
